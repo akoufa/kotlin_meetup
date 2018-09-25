@@ -1,5 +1,7 @@
-## Kotlin User Group Stuttgart
+# Kotlin User Group Stuttgart
 
 ![Logo](./images/Kotlin_Stuttgart_UG_logo.png "Logo")
 
-## Sources and presentations from the Kotlin Meetups
+## Sources, presentations and other resources from the Kotlin Meetups
+
+Check the branches for the stuff of the individual meetups.
